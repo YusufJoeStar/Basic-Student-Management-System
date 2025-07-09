@@ -17,5 +17,5 @@ What's Used:
 ---
 
 
-Expect alot of unorganized branches sorry (I am new to github). Will add lots of functions
+Expect alot of unorganized files sorry (I am new to github). Will add lots of functions
 
