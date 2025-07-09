@@ -17,20 +17,5 @@ What's Used:
 ---
 
 
-
-Sample output:
-Enter number of students: 3
-Enter name of student #1: Joestar
-Enter grade of Joestar: 95
-Enter name of student #2: Jonathan
-Enter grade of Jonathan: 88
-Enter name of student #3: Erina
-Enter grade of Erina: 91
-
------ Menu -----
-1. Display All Students
-2. Sort Students by Grade (Descending)
-3. Search Student by Name
-4. Exit
-Enter your choice: 2
+Expect alot of unorganized branches sorry (I am new to github). Will add lots of functions
 
